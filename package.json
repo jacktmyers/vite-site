@@ -1,11 +1,11 @@
 {
-  "name": "cgt-individual-project",
+  "name": "vite-site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CGT-Individual-Project/",
+    "build": "vite build --base=/vite-site/",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
